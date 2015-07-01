@@ -1,0 +1,25 @@
+#title {
+	
+	float:right;
+	width: 50%;
+	font-family: arial;
+	font-size: 20px;
+	color: black;
+}
+
+#image {
+	
+	
+	width: 30%;
+	height: 30%;
+	
+}
+
+#description{
+
+	float: right;
+	width: 50%;
+	margin-top: -150px;
+	
+}
+

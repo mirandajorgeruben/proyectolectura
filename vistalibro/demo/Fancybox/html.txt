@@ -1,0 +1,15 @@
+<a href="#image_link" title="Image Comments" id="click">click here</a>
+<script type="text/javascript" src="http://fancybox.net/js/fancybox-1.3.4/jquery.fancybox-1.3.4.js"></script>
+<link rel="stylesheet" type="text/css" href="http://fancybox.net/js/fancybox-1.3.4/jquery.fancybox-1.3.4.css" media="screen" />
+
+<div style="display:none">     
+    <div id="image_link">             
+<div class="imageWrapper">       
+        <div class="image">
+            <img src="http://photos.somd.com/data/500/medium/sunrise_at_sea.jpg" />
+        </div>
+        <div class="caption">Sample Caption</div>
+    </div>
+        <div class="comments">Sample Comments here</div>
+    </div>
+</div>

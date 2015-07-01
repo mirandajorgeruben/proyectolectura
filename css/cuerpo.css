@@ -1,0 +1,58 @@
+div#columna_izq{
+        width:300px;
+        margin-left:15px;
+        min-height:360px;
+        float:left;
+        border-radius:10px;
+        margin-top:20px;
+        }
+
+
+div#columna_izq h4, div#columna_centro h4, div#columna_der  h4 
+    {text-align:center; 
+     font-size:18px;
+    }
+div#columna_izq .contenedor_reg 
+    {float:left; 
+     width:290px;
+     margin-top:15px;
+    }
+
+div#columna_izq div.contenedor_reg span {float:left; margin: 3px;}
+div#columna_izq div.contenedor_reg input {float:right;}
+
+
+div#columna_centro
+    {width:300px;
+     height: 360px;
+        margin-left:15px;
+        min-height:360px;
+        float:left;
+        border-radius:10px;
+        margin-top:20px;
+        /*margin-right: 10px;*/
+        margin-left: 15px;       
+    }
+    
+div#columna_der    {width:300px;
+     height: 360px;
+        margin-left:15px;
+        min-height:360px;
+        float:left;
+        border-radius:10px;
+        margin-top:20px;
+        margin-right: 10px;
+        margin-left: 10px;     }
+
+div#columna_der2    {width:300px;
+     height: auto;
+        margin-left:15px;
+        min-height:360px;
+        float:left;
+        border-radius:10px;
+        margin-top:20px;
+        margin-right: 10px;
+        margin-left: 10px;     }
+        
+.cont{width: 250px; margin-bottom: 10px; clear:both;}
+.cont input,.cont select {width: 230px; margin-left: 10px;}

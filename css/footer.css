@@ -1,0 +1,36 @@
+.footer{
+	float: left;
+	margin: 0px 15px 0px 15px;
+	}
+.reproductor{
+	float: left;
+	
+	}
+.listamias{
+	float: left;
+	height: 190px;
+	width: 250px;
+	margin: 0px 15px 0px 15px;
+	overflow-y: scroll;
+	}
+.listabuscar{
+	font-size: 12px;
+	float: left;
+	height: 190px;
+	width: 350px;
+	margin: 0px 15px 0px 15px;
+	
+	}
+.listaresultados{
+	clear: both;
+	overflow-y: scroll;
+	height: 70%;
+	width: 90%;
+	
+	margin: 15px 15px 15px 15px; 
+	text-align: left;
+	}
+
+a{
+	font-size: 12px;
+	}

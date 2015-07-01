@@ -1,0 +1,16 @@
+.comments{
+float:left;
+    width:30%;
+}
+
+#image_link{
+width:100%;
+float:left;
+}
+img {
+width: 200px;
+}
+.imageWrapper {
+width:70%;
+    float:left;
+}
