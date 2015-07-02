@@ -1,7 +1,7 @@
 <link href="css/cuerpo.css" type="text/css"  rel="stylesheet"/>
 <link href="css/crearlista.css" type="text/css"  rel="stylesheet"/>
        <div id="columna_izq">
-            <h4>Buscar</h4> aaa
+            <h4>Buscar</h4>
             <div class="cont">
                 <label style="margin-left:10px;">Ingrese una búsqueda en el campo.</label>
                 <input type="text" id="audiolibro" />
@@ -17,7 +17,7 @@
             <div id="audiolibrossumados">
                 No hay libros agregados
              </div>
-                asdasd
+       
                 
             
         </div>      
